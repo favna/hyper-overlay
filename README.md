@@ -20,7 +20,11 @@
   </p>
 </div>
 
-![home2](https://cloud.githubusercontent.com/assets/924158/17121698/d122bcaa-52ab-11e6-876c-25a267d00e89.gif)
+<div align="center">
+<p>
+<img src="https://cloud.githubusercontent.com/assets/924158/17121698/d122bcaa-52ab-11e6-876c-25a267d00e89.gif" title="homeMacOS" alt="homeMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42027910-23325b38-7acb-11e8-993b-57afefa9d4a6.gif" title="homeWin" alt="homeWin"/>
+</p>
+</div>
 
 ---
 
@@ -105,7 +109,7 @@ module.exports = {
 
 ### hotkeys
 - Value: array of hotkey strings
-- Default: ['Option+Space']
+- Default: ['Option+Space'] on MacOS or ['Control+Space'] on Windows
 - Specify one or more hotkeys to show and hide the Hyper Overlay (see: [`Accelerator`](https://github.com/electron/electron/blob/master/docs/api/accelerator.md))
 
 ### position
@@ -123,7 +127,11 @@ module.exports = {
 - Default: true
 - Allow the Hyper Overlay be resizable.
 
-![resize](https://cloud.githubusercontent.com/assets/924158/17121469/5281a916-52aa-11e6-92f5-fa1c3dff75c8.gif)
+<div align="center">
+  <p>
+    <img src="https://cloud.githubusercontent.com/assets/924158/17121469/5281a916-52aa-11e6-92f5-fa1c3dff75c8.gif" title="resizeMacOS" alt="resizeMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42028072-8fa40ce4-7acb-11e8-9a99-ab5717ddbf6c.gif" title="resizeWin" alt="resizeWin"/>
+  </p>
+</div>
 
 ### size
 - Value: float or number
@@ -137,24 +145,28 @@ module.exports = {
 - Value: true or false
 - Default: false
 - Makes Hyper Overlay the unique window displayed when started.
-- Other windows started will be default Hyper.app windows.
+- Other windows started will be default Hyper windows.
 
 ### startup
 - Value: true or false
 - Default: true
-- Open Hyper Overlay on Hyper.app startup.
+- Open Hyper Overlay on Hyper startup.
 
 ### tray
 - Value: true or false
 - Default: true
 - Add icon to the system notification area, for access Hyper Overlay.
 
-![tray](https://cloud.githubusercontent.com/assets/924158/17121470/5294b02e-52aa-11e6-9bca-9d70f186c60b.gif)
+<div align="center">
+  <p>
+    <img src="https://cloud.githubusercontent.com/assets/924158/17121470/5294b02e-52aa-11e6-9bca-9d70f186c60b.gif" title="trayMacOS" alt="trayMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42027909-231d6034-7acb-11e8-87cc-f4cbc88e8b2f.gif" title="trayWin" alt="trayWin"/>
+  </p>
+</div>
 
 ### unique
 - Value: true or false
 - Default: false
-- Makes Hyper Overlay the unique window of Hyper.app. Any other window will be removed.
+- Makes Hyper Overlay the unique window of Hyper. Any other window will be removed.
 
 ## Licence
 
