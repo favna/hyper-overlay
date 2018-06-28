@@ -22,7 +22,7 @@
 
 <div align="center">
 <p>
-<img src="https://cloud.githubusercontent.com/assets/924158/17121698/d122bcaa-52ab-11e6-876c-25a267d00e89.gif" title="homeMacOS" alt="homeMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42027910-23325b38-7acb-11e8-993b-57afefa9d4a6.gif" title="homeWin" alt="homeWin"/>
+<img src="https://cloud.githubusercontent.com/assets/924158/17121698/d122bcaa-52ab-11e6-876c-25a267d00e89.gif" title="homeMacOS" alt="homeMacOS"/><img src="https://raw.githubusercontent.com/Favna/hyper-overlay/readme-improvements/assets/home.gif" title="homeWin" alt="homeWin"/>
 </p>
 </div>
 
@@ -129,7 +129,7 @@ module.exports = {
 
 <div align="center">
   <p>
-    <img src="https://cloud.githubusercontent.com/assets/924158/17121469/5281a916-52aa-11e6-92f5-fa1c3dff75c8.gif" title="resizeMacOS" alt="resizeMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42028072-8fa40ce4-7acb-11e8-9a99-ab5717ddbf6c.gif" title="resizeWin" alt="resizeWin"/>
+    <img src="https://cloud.githubusercontent.com/assets/924158/17121469/5281a916-52aa-11e6-92f5-fa1c3dff75c8.gif" title="resizeMacOS" alt="resizeMacOS"/><img src="https://raw.githubusercontent.com/Favna/hyper-overlay/readme-improvements/assets/resize.gif" title="resizeWin" alt="resizeWin"/>
   </p>
 </div>
 
@@ -159,7 +159,7 @@ module.exports = {
 
 <div align="center">
   <p>
-    <img src="https://cloud.githubusercontent.com/assets/924158/17121470/5294b02e-52aa-11e6-9bca-9d70f186c60b.gif" title="trayMacOS" alt="trayMacOS"/><img src="https://user-images.githubusercontent.com/4019718/42027909-231d6034-7acb-11e8-87cc-f4cbc88e8b2f.gif" title="trayWin" alt="trayWin"/>
+    <img src="https://cloud.githubusercontent.com/assets/924158/17121470/5294b02e-52aa-11e6-9bca-9d70f186c60b.gif" title="trayMacOS" alt="trayMacOS"/><img src="https://raw.githubusercontent.com/Favna/hyper-overlay/readme-improvements/assets/hideonblur.gif" title="trayWin" alt="trayWin"/>
   </p>
 </div>
 
