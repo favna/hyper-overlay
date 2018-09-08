@@ -158,6 +158,11 @@ module.exports = {
 - Default: 0.4
 - The height of Hyper Overlay when it is showing.
 
+#### visibleOnAllWorkspaces
+- Value: true or false
+- Default: false
+- Let Hyper window be visible in all workspaces
+
 ### startAlone
 - Value: true or false
 - Default: false
