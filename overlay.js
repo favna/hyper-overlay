@@ -224,7 +224,9 @@ class Overlay {
     win.setResizable(this._config.resizable);
     win.setAlwaysOnTop(this._config.alwaysOnTop);
     if (this._config.visibleOnAllWorkspaces) {
-      win.setVisibleOnAllWorkspaces(true);
+      this._app.dock.hide();
+      win.setVisibleOnAllWorkspaces(true, { visibleOnFullScreen: true } );
+      win.setFullScreenable(false);
     }
   }
 
